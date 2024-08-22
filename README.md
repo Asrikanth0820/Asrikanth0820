@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Asrikanth0820
 - 👀 I’m interested in ...PythonCoding
 - 🌱 I’m currently learning ...How to use GitHub
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...N/A
+- 📫 How to reach me ...N/A
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...I joined GitHub a day after my birthday
 
